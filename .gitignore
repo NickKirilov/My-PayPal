@@ -9,3 +9,6 @@
 .venv
 
 .idea
+
+mlflow.db
+/mlartifacts
